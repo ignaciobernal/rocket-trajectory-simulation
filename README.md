@@ -38,5 +38,5 @@ Before running the simulation, ensure you have **numpy** and **sympy** libraries
 
 ## Usage
 ```sh
-https://github.com/ignaciobernal/rocket-trajectory.git
+https://github.com/ignaciobernal/rocket-trajectory-simulation
 
