@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/activity</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/issues</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/pulls</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/actions</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/security</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/blob/main/README.md</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/blob/main/rocket_trajectory_simulation.py</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/releases</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/search?q=repo%3Aignaciobernal%2Frocket-trajectory-simulation++language%3APython</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/labels</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/labels?sort=name-asc</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/labels?sort=name-desc</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/labels?sort=count-desc</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/labels?sort=count-asc</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/labels/bug</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/labels/documentation</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/labels/duplicate</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/labels/enhancement</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/labels/good%20first%20issue</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/labels/help%20wanted</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/labels/invalid</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/labels/question</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/labels/wontfix</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?state=open</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?state=closed</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/ignaciobernal/rocket-trajectory-simulation/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2025-04-03T17:42:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
